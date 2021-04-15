@@ -1,5 +1,8 @@
-###  最近在学习研究中 🌱，如果以后有人一起合作就更好了。👯
+###  最近在学习研究中 🌱，欢迎学习交流，QQ群：177971845 。👯
+#### 加群验证：本人B站UID（纯数字）
 ### [个人介绍](https://hyzqacg.github.io/)
+
+
 <!--
 **17396743/17396743** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
