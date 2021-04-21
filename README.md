@@ -8,6 +8,11 @@
 - 📫 QQ群：177971845 加群验证：本人B站名称
 - ⚡ B站上不定期投稿自制稿件
 
+
+### [个人面板](https://hyzqacg.github.io/)
+
+[![grmb](https://github-readme-stats.vercel.app/api?username=17396743&show_icons=true&theme=flag-india)](https://hyzqacg.github.io/)
+
 >
 > 以下均为我熟练使用的技能
 > 
@@ -47,12 +52,7 @@
 >
 > 语言相关：英语P3 / 日语 N2 
 > 
-
-### [个人面板](https://hyzqacg.github.io/)
-
-[![grmb](https://github-readme-stats.vercel.app/api?username=17396743&show_icons=true&theme=flag-india)](https://hyzqacg.github.io/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=17396743)](https://hyzqacg.github.io/)
-
 >
 >--------------------------
 > 
