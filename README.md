@@ -11,28 +11,42 @@
 >
 > 以下均为我熟练使用的技能
 > 
-> Web开发：html / css / Java script
-> 
 > android开发: java / kotlin
 > 
 > 数据库相关：MySQL / SQLite
 >
-> 版本管理、文档和自动化部署工具：Git / Gitee / Microsoft Office
+> 版本管理、文档和自动化部署工具：Git / Gitee / Microsoft Office 
 >
 > 云和开放平台：腾讯互联开放平台 / 微博开放平台 / 微信应用开发 / 友盟+ / 腾讯Bugly
 >
 >--------------------------
-> 
-> 3D渲染相关: PmxEditor / MMD / blander / C4D / Marvelous Designer
 >
-> 视觉设计：Pr / Ps / Ae
+> 以下均为我日常使用的业余技能
+>
+> 绘画：线稿 
 > 
-> VOCALOID翻唱：VOCALOID5 / FL studio
+> Web开发：html / css / Java script
 > 
-> 渗透相关：Ettercap / aircrack-ng / Fiddler
+> VOCALOID翻唱：VOCALOID5 / FL studio / X studio
+> 
+> 渗透相关：Ettercap / aircrack-ng / Fiddler / Kali Linux
+> 
+> 服务器搭建相关： linux / Windous / Nginx / Apache / Lighttpd
+> 
+> 视觉设计：Adobe Premiere Pro / Adobe Photoshop / Adobe After Effects
+> 
+> 3D渲染相关: PmxEditor / MikuMikuDance / Blander / CINEMA 4D / Marvelous Designer
 > 
 >--------------------------
+> 
+> 以下均为我最近在学习的技术：
+> 
+> 绘画相关： 赛璐璐 / 平涂 / 厚涂 
 >
+> 编程相关：python / Vue / YOLOv5
+>
+> 语言相关：英语P3 / 日语 N2 
+> 
 
 ### [个人面板](https://hyzqacg.github.io/)
 
@@ -46,21 +60,15 @@
 > 
 > 我从短暂的人生当中学到的就是
 > 
-> 人越是学习,要学知识越可能因意料之外的情况而逐渐增加
+> 人越是学习, 喜欢的事物越可能因意料之外的情况而逐渐增加
 > 
 > 要成为超人的存在才行啊
 > 
 > 所以啊,我不做人啦!JOJO!
 >
 >--------------------------
-> 
-> 最近在学习中：
-> 
-> 绘画相关： 线稿 / 赛璐璐 / 平涂 / 厚涂 / 素描 (注：画了有五年多的线稿基础) 
 >
-> 编程相关：python / Vue / YOLOv5
->
-> 语言水平：英语P2 / 日语 N2 / 汉语H2
+
 
 
 
