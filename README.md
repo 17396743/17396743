@@ -35,8 +35,6 @@
 > 
 > VOCALOID翻唱：VOCALOID5 / FL studio / X studio
 > 
-> 渗透相关：Ettercap / aircrack-ng / Fiddler / Kali Linux / ESP8266 
-> 
 > 服务器搭建相关： linux / Windous / Nginx / Apache / Lighttpd
 > 
 > 视觉设计：Adobe Premiere Pro / Adobe Photoshop / Adobe After Effects
@@ -51,7 +49,7 @@
 >
 > 编程相关：python / Vue / YOLOv5 
 >
-> 语言相关：英语P3 / 日语 N2 
+> 语言相关：英语 P3 / 日语 N2 
 >
 >--------------------------
 > 
