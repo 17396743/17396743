@@ -33,9 +33,9 @@
 > 
 > Web开发：html / css / Java script
 > 
-> VOCALOID翻唱：VOCALOID5 / FL studio / X studio
-> 
 > 服务器搭建相关： linux / Windous / Nginx / Apache / Lighttpd
+> 
+> VOCALOID翻唱：VOCALOID5 / FL studio / X studio
 > 
 > 视觉设计：Adobe Premiere Pro / Adobe Photoshop / Adobe After Effects
 > 
