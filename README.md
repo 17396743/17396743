@@ -21,7 +21,7 @@
 > 
 > 数据库相关：MySQL / SQLite
 >
-> 版本管理、文档和自动化部署工具：Git / Gitee / Microsoft Office 
+> 版本管理、文档和自动化部署工具：Git / Gitee / Microsoft Office  / SvnBucket
 >
 > 云和开放平台：腾讯互联开放平台 / 微博开放平台 / 微信应用开发 / 友盟+ / 腾讯Bugly / 环信IM
 >
