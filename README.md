@@ -47,7 +47,7 @@
 > 
 > 绘画相关： 赛璐璐 / 平涂 / 厚涂 
 >
-> 编程相关：python / Vue / YOLOv5 
+> 编程相关：python / Vue / YOLOv5 / Flutter 
 >
 > 语言相关：英语 P3 / 日语 N2 
 > 
