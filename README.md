@@ -1,4 +1,4 @@
-# Hi there 👋, this is Hason
+# Hi there 👋, this is IllusionRain
 
 - 🔭 目前在学习中,已隐藏部分案例，需要请私聊我
 - 🌱 有着编程、绘画、学习制作3d渲染、建模，制作翻唱的兴趣
