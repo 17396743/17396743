@@ -12,7 +12,7 @@
 ### [个人面板](https://hyzqacg.github.io/)
 
 [![grmb](https://github-readme-stats.vercel.app/api?username=17396743&show_icons=true&theme=flag-india)](https://hyzqacg.github.io/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=17396743&layout=compact&hide=javascript,C,C++))](https://hyzqacg.github.io/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=17396743&layout=compact&hide=javascript,c,c++,powershell))](https://hyzqacg.github.io/)
 
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=17396743 -->
 
