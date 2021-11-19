@@ -19,7 +19,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=17396743&layout=compact&hide=java,python,C,javascript)](https://hyzqacg.github.io/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=17396743&layout=compact&hide=java,python,C,javascript,html)](https://hyzqacg.github.io/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=17396743&layout=compact&hide=java,python,C,javascript,html,c++)](https://hyzqacg.github.io/)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=17396743&layout=compact&hide=java,python,C,javascript,html,c++,css)](https://hyzqacg.github.io/)
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=17396743 -->
 
 
