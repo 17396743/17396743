@@ -12,6 +12,7 @@
 ### [个人面板](https://hyzqacg.github.io/)
 
 [![grmb](https://github-readme-stats.vercel.app/api?username=17396743&show_icons=true&theme=flag-india)](https://hyzqacg.github.io/)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=17396743&layout=compact)](https://hyzqacg.github.io/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=17396743&layout=compact&hide=python)](https://hyzqacg.github.io/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=17396743&layout=compact&hide=java,python)](https://hyzqacg.github.io/)
@@ -19,7 +20,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=17396743&layout=compact&hide=java,python,C,javascript)](https://hyzqacg.github.io/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=17396743&layout=compact&hide=java,python,C,javascript,html)](https://hyzqacg.github.io/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=17396743&layout=compact&hide=java,python,C,javascript,html,c++)](https://hyzqacg.github.io/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=17396743&layout=compact&hide=java,python,C,javascript,html,C,css)](https://hyzqacg.github.io/)
+
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=17396743 -->
 
 
