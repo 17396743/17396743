@@ -13,7 +13,7 @@
 
 [![grmb](https://github-readme-stats.vercel.app/api?username=17396743&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true&count_private=true)](https://hyzqacg.github.io/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=17396743&layout=compact)](https://hyzqacg.github.io/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=17396743&layout=compact&hide=java)](https://hyzqacg.github.io/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=17396743&layout=compact&hide=python)](https://hyzqacg.github.io/)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=17396743&layout=compact&hide=java,python)](https://hyzqacg.github.io/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=17396743&layout=compact&hide=java,python,C)](https://hyzqacg.github.io/)
