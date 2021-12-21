@@ -24,4 +24,4 @@
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=17396743 -->
 
 
-### [力扣](https://leetcode-cn.com/u/nifty-svvirlesi8q/)
+[力扣](https://leetcode-cn.com/u/nifty-svvirlesi8q/)
